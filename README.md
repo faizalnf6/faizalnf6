@@ -76,15 +76,16 @@ This connection supports my chess games, YouTube uploads, and AI content creatio
 
 ---
 
-QUICK SUMMARY
+**QUICK SUMMARY**
 
-Status Platform Name
-Active Chess.com ZLockAtDrawArmy
-Active Instagram izaly78mo
-Active YouTube faizalnurulfirdaus
-Medium JustPaste.it ZLockAtDrawArmy
-Archived Chess.com KindAeroCreese
-Archived Chess.com FinnStrom3693
-Rival Chess.com AdamNeoJR
-Community Instagram thxmylnd
-Service Biznet Home Internet Provider
+| Status    | Platform          | Name                  |
+|-----------|-------------------|-----------------------|
+| Active    | Chess.com         | ZLockAtDrawArmy      |
+| Active    | Instagram         | izaly78mo            |
+| Active    | YouTube           | faizalnurulfirdaus   |
+| Medium    | JustPaste.it      | ZLockAtDrawArmy      |
+| Archived  | Chess.com         | KindAeroCreese       |
+| Archived  | Chess.com         | FinnStrom3693        |
+| Rival     | Chess.com         | AdamNeoJR            |
+| Community | Instagram         | thxmylnd             |
+| Service   | Biznet            | Home Internet Provider |
