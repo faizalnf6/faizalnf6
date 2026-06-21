@@ -1,78 +1,79 @@
-🌐 Faizal Nurul Firdaus Online Presence
+🌐 **Faizal Nurul Firdaus Online Presence**
 
 ---
 
-📂 Account Hub
+### 📂 Account Hub
 
-- GitHub  
-  github.com/faizalnf6  
+- **GitHub**  
+  [github.com/faizalnf6](https://github.com/faizalnf6)  
   Contains raw materials and preparation for future coding projects, especially Android development and C++ programming.
 
-- X.com  
-  [Link](x.com/izauslanfa78)  
+- **X.com**  
+  [x.com/izauslanfa78](https://x.com/izauslanfa78)  
   Forward social media account for testing thoughts and sharing braver content.
+
 ---
 
-🔥 Active Accounts
+### 🔥 Active Accounts
 
-1. Chess.com – Handle: ZLockAtDrawArmy  
-   [Link](chess.com/member/ZLockAtDrawArmy)<br><br>  
+1. **Chess.com – Handle: ZLockAtDrawArmy**  
+   [chess.com/member/ZLockAtDrawArmy](https://chess.com/member/ZLockAtDrawArmy)  
    Plays daily rapid and blitz games, tracking progress and competing with players from Jombang, East Java.
 
-2. Instagram – Handle: izaly78mo  
-   [Link](http://www.instagram.com/izaly78mo)<br><br>
+2. **Instagram – Handle: izaly78mo**  
+   [instagram.com/izaly78mo](https://instagram.com/izaly78mo)  
    Shares AI art, quotes, faith-based content, and anime-related posts. Public account.
 
-3. YouTube – Handle: faizalnurulfirdaus  
-   youtube.com/@faizalnurulfirdaus  
+3. **YouTube – Handle: faizalnurulfirdaus**  
+   [youtube.com/@faizalnurulfirdaus](https://youtube.com/@faizalnurulfirdaus)  
    Uploads AI-generated songs, short videos, and imagination/faith content. Targeted for Indonesian viewers, including Jombang.
 
-4. JustPaste.it – Handle: ZLockAtDrawArmy  
-   justpaste.it/u/ZLockAtDrawArmy  
+4. **JustPaste.it – Handle: ZLockAtDrawArmy**  
+   [justpaste.it/u/ZLockAtDrawArmy](https://justpaste.it/u/ZLockAtDrawArmy)  
    Posts stories about original character Eiris Zahra, personal thoughts, and notes on digital presence.
 
 ---
 
-💤 Inactive Accounts
+### 💤 Inactive Accounts
 
-5. Chess.com – Handle: KindAeroCreese  
-   chess.com/member/KindAeroCreese  
-   Old account with past games, including a tough loss to “sanglier” (French player).
+5. **Chess.com – Handle: KindAeroCreese**  
+   [chess.com/member/KindAeroCreese](https://chess.com/member/KindAeroCreese)  
+   Old account with past games, including a tough loss to "sanglier" (French player).
 
-6. Chess.com – Handle: FinnStrom3693  
-   chess.com/member/FinnStrom3693  
+6. **Chess.com – Handle: FinnStrom3693**  
+   [chess.com/member/FinnStrom3693](https://chess.com/member/FinnStrom3693)  
    Stopped using after losing to a chess engine, which taught lessons about engine defense.
 
-7. YouTube – Handle: Finn Strom  
-   youtube.com/@finnstrom-t3e  
+7. **YouTube – Handle: Finn Strom**  
+   [youtube.com/@finnstrom-t3e](https://youtube.com/@finnstrom-t3e)  
    Old channel with AI music model generation, now used for comparison and data warehousing alongside the main channel.
 
 ---
 
-♟️ Friend & Rival
+### ♟️ Friend & Rival
 
-8. AdamNeoJR – Chess rival and friend  
-   chess.com/member/AdamNeoJR  
+8. **AdamNeoJR – Chess rival and friend**  
+   [chess.com/member/AdamNeoJR](https://chess.com/member/AdamNeoJR)  
    Competes yearly, pushing each other to improve at a similar skill level.
 
 ---
 
-👥 Community Contact
+### 👥 Community Contact
 
-9. @thxmylnd – Anime fan with detective theme  
-   instagram.com/thxmylnd  
+9. **@thxmylnd – Anime fan with detective theme**  
+   [instagram.com/thxmylnd](https://instagram.com/thxmylnd)  
    Shares anime and intellectual content, interacting through comments and posts.
 
 ---
 
-🌐 Internet Provider
+### 🌐 Internet Provider
 
-10. Biznet Home – Fiber optic internet provider  
-   biznethome.net  
-   - Speed: 50–300 Mbps  
-   - Price: Rp 175,000 – Rp 700,000/month  
-   - Coverage: Central & East Jakarta (since 2000)  
-   - Call: 1500933  
+10. **Biznet Home – Fiber optic internet provider**  
+    [biznethome.net](https://biznethome.net)  
+    - Speed: 50–300 Mbps  
+    - Price: Rp 175,000 – Rp 700,000/month  
+    - Coverage: Central & East Jakarta (since 2000)  
+    - Call: 1500933  
 
 Supports chess games, YouTube uploads, and AI content creation from Jombang, East Java.
 
