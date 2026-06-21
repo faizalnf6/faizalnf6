@@ -16,7 +16,7 @@
 🔥 Active Accounts
 
 1. Chess.com – Handle: ZLockAtDrawArmy  
-   chess.com/member/ZLockAtDrawArmy  
+   [Link](chess.com/member/ZLockAtDrawArmy)<br><br>  
    Plays daily rapid and blitz games, tracking progress and competing with players from Jombang, East Java.
 
 2. Instagram – Handle: izaly78mo  
