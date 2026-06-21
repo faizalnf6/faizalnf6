@@ -20,7 +20,7 @@
    Plays daily rapid and blitz games, tracking progress and competing with players from Jombang, East Java.
 
 2. Instagram – Handle: izaly78mo  
-   [Link](instagram.com/izaly78mo)
+   [Link](instagram.com/izaly78mo)  
    Shares AI art, quotes, faith-based content, and anime-related posts. Public account.
 
 3. YouTube – Handle: faizalnurulfirdaus  
