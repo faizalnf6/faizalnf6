@@ -8,6 +8,9 @@
   github.com/faizalnf6  
   Contains raw materials and preparation for future coding projects, especially Android development and C++ programming.
 
+- X.com
+  x.com/izauslanfa78
+  Forward social media account for testing thoughts and sharing braver content.
 ---
 
 🔥 Active Accounts
@@ -75,6 +78,10 @@ Supports chess games, YouTube uploads, and AI content creation from Jombang, Eas
 
 ---
 
+Here’s the updated Quick Summary table with X.com included alongside your other active accounts:
+
+---
+
 📊 Quick Summary
 
 | Status    | Platform      | Name                  |
@@ -82,11 +89,12 @@ Supports chess games, YouTube uploads, and AI content creation from Jombang, Eas
 | Active    | Chess.com | ZLockAtDrawArmy |
 | Active    | Instagram | izaly78mo |
 | Active    | YouTube | faizalnurulfirdaus |
+| Active    | X.com | izauslanfa78 |
 | Medium    | JustPaste.it | ZLockAtDrawArmy |
 | Archived  | Chess.com | KindAeroCreese |
 | Archived  | Chess.com | FinnStrom3693 |
+| Archived  | YouTube | Finn Strom |
 | Rival     | Chess.com | AdamNeoJR |
 | Community | Instagram | thxmylnd |
 | Service   | Biznet | Home Internet Provider |
-
 ---
