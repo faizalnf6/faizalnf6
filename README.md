@@ -9,7 +9,7 @@
   Contains raw materials and preparation for future coding projects, especially Android development and C++ programming.
 
 - X.com  
-  x.com/izauslanfa78  
+  [Link](x.com/izauslanfa78)  
   Forward social media account for testing thoughts and sharing braver content.
 ---
 
@@ -20,7 +20,7 @@
    Plays daily rapid and blitz games, tracking progress and competing with players from Jombang, East Java.
 
 2. Instagram – Handle: izaly78mo  
-   instagram.com/izaly78mo  
+   [Link](instagram.com/izaly78mo)
    Shares AI art, quotes, faith-based content, and anime-related posts. Public account.
 
 3. YouTube – Handle: faizalnurulfirdaus  
