@@ -1,91 +1,92 @@
-Faizal Nurul Firdaus Online Presence
+🌐 Faizal Nurul Firdaus Online Presence
 
 ---
 
-ACTIVE ACCOUNTS
+📂 Account Hub
 
-1. Chess.com – My main chess hub.
-Handle: ZLockAtDrawArmy
-https://www.chess.com/member/ZLockAtDrawArmy
-I play daily rapid and blitz games here. I track my progress and compete with other players from Jombang, East Java.
-
----
-
-2. Instagram – My social space for sharing and connecting.
-Handle: izaly78mo
-https://www.instagram.com/izaly78mo
-I post AI art, quotes, faith-based content, and anime-related posts. My account is public.
+- GitHub  
+  github.com/faizalnf6  
+  Contains raw materials and preparation for future coding projects, especially Android development and C++ programming.
 
 ---
 
-3. YouTube – My video channel.
-Handle: faizalnurulfirdaus
-https://youtube.com/@faizalnurulfirdaus
-I share AI-generated songs, short videos, and content about imagination and faith. My videos are tagged for Indonesian viewers, including those in Jombang.
+🔥 Active Accounts
+
+1. Chess.com – Handle: ZLockAtDrawArmy  
+   chess.com/member/ZLockAtDrawArmy  
+   Plays daily rapid and blitz games, tracking progress and competing with players from Jombang, East Java.
+
+2. Instagram – Handle: izaly78mo  
+   instagram.com/izaly78mo  
+   Shares AI art, quotes, faith-based content, and anime-related posts. Public account.
+
+3. YouTube – Handle: faizalnurulfirdaus  
+   youtube.com/@faizalnurulfirdaus  
+   Uploads AI-generated songs, short videos, and imagination/faith content. Targeted for Indonesian viewers, including Jombang.
+
+4. JustPaste.it – Handle: ZLockAtDrawArmy  
+   justpaste.it/u/ZLockAtDrawArmy  
+   Posts stories about original character Eiris Zahra, personal thoughts, and notes on digital presence.
 
 ---
 
-4. JustPaste.it – My written archive.
-Handle: ZLockAtDrawArmy
-https://justpaste.it/u/ZLockAtDrawArmy
-I post stories about my original character (Eiris Zahra), personal thoughts, and notes on my digital presence.
+💤 Inactive Accounts
+
+5. Chess.com – Handle: KindAeroCreese  
+   chess.com/member/KindAeroCreese  
+   Old account with past games, including a tough loss to “sanglier” (French player).
+
+6. Chess.com – Handle: FinnStrom3693  
+   chess.com/member/FinnStrom3693  
+   Stopped using after losing to a chess engine, which taught lessons about engine defense.
+
+7. YouTube – Handle: Finn Strom  
+   youtube.com/@finnstrom-t3e  
+   Old channel with AI music model generation, now used for comparison and data warehousing alongside the main channel.
 
 ---
 
-INACTIVE ACCOUNTS
+♟️ Friend & Rival
 
-5. Chess.com – KindAeroCreese
-https://www.chess.com/member/KindAeroCreese
-Old account with past games. I lost badly to a French player called "sanglier" – a tough lesson that helped me improve.
-
----
-
-6. Chess.com – FinnStrom3693
-https://www.chess.com/member/FinnStrom3693
-Another old account. I stopped using it after losing to a chess engine. It taught me about engine defense.
+8. AdamNeoJR – Chess rival and friend  
+   chess.com/member/AdamNeoJR  
+   Competes yearly, pushing each other to improve at a similar skill level.
 
 ---
 
-FRIEND & RIVAL
+👥 Community Contact
 
-7. AdamNeoJR – My chess rival and friend.
-https://www.chess.com/member/AdamNeoJR
-We compete and compare progress every year. He is active and at a similar skill level. We push each other to get better.
-
----
-
-COMMUNITY CONTACT
-
-8. @thxmylnd – Anime fan with a detective theme.
-https://www.instagram.com/thxmylnd
-We share anime and intellectual content. We interact through comments and posts.
+9. @thxmylnd – Anime fan with detective theme  
+   instagram.com/thxmylnd  
+   Shares anime and intellectual content, interacting through comments and posts.
 
 ---
 
-INTERNET PROVIDER
+🌐 Internet Provider
 
-9. Biznet Home – Fiber optic internet provider.
-Website: https://www.biznethome.net
+10. Biznet Home – Fiber optic internet provider  
+   biznethome.net  
+   - Speed: 50–300 Mbps  
+   - Price: Rp 175,000 – Rp 700,000/month  
+   - Coverage: Central & East Jakarta (since 2000)  
+   - Call: 1500933  
 
-· Speed: 50–300 Mbps
-· Price: Rp 175,000 – Rp 700,000/month
-· Covers Central and East Jakarta (serving since 2000)
-· Call: 1500933
-
-This connection supports my chess games, YouTube uploads, and AI content creation from my location in Jombang, East Java.
+Supports chess games, YouTube uploads, and AI content creation from Jombang, East Java.
 
 ---
 
-**QUICK SUMMARY**
+📊 Quick Summary
 
-| Status    | Platform          | Name                  |
-|-----------|-------------------|-----------------------|
-| Active    | Chess.com         | ZLockAtDrawArmy      |
-| Active    | Instagram         | izaly78mo            |
-| Active    | YouTube           | faizalnurulfirdaus   |
-| Medium    | JustPaste.it      | ZLockAtDrawArmy      |
-| Archived  | Chess.com         | KindAeroCreese       |
-| Archived  | Chess.com         | FinnStrom3693        |
-| Rival     | Chess.com         | AdamNeoJR            |
-| Community | Instagram         | thxmylnd             |
-| Service   | Biznet            | Home Internet Provider |
+| Status    | Platform      | Name                  |
+|-----------|---------------|-----------------------|
+| Active    | Chess.com | ZLockAtDrawArmy |
+| Active    | Instagram | izaly78mo |
+| Active    | YouTube | faizalnurulfirdaus |
+| Medium    | JustPaste.it | ZLockAtDrawArmy |
+| Archived  | Chess.com | KindAeroCreese |
+| Archived  | Chess.com | FinnStrom3693 |
+| Rival     | Chess.com | AdamNeoJR |
+| Community | Instagram | thxmylnd |
+| Service   | Biznet | Home Internet Provider |
+
+---
