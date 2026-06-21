@@ -9,7 +9,7 @@
   Contains raw materials and preparation for future coding projects, especially Android development and C++ programming.
 
 - X.com  
-  x.com/izauslanfa78
+  x.com/izauslanfa78  
   Forward social media account for testing thoughts and sharing braver content.
 ---
 
