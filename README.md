@@ -78,10 +78,6 @@ Supports chess games, YouTube uploads, and AI content creation from Jombang, Eas
 
 ---
 
-Here’s the updated Quick Summary table with X.com included alongside your other active accounts:
-
----
-
 📊 Quick Summary
 
 | Status    | Platform      | Name                  |
