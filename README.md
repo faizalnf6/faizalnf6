@@ -29,7 +29,7 @@
    Uploads AI-generated songs, short videos, and imagination/faith content. Targeted for Indonesian viewers, including Jombang.
 
 4. **JustPaste.it – Handle: ZLockAtDrawArmy**  
-   [justpaste.it/u/ZLockAtDrawArmy](https://justpaste.it/u/ZLockAtDrawArmy)  
+   [da.gd link shortener](https://da.gd/6JlGE)
    Posts stories about original character Eiris Zahra, personal thoughts, and notes on digital presence.
 
 ---
