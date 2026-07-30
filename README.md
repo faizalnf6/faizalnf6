@@ -43,7 +43,7 @@
 
 7. **YouTube — Finn Strom**
    [youtube.com/@finnstrom-t3e](https://youtube.com/@finnstrom-t3e)
-   Old AI music generation channel; now kept for comparison and data warehousing alongside the main channel.
+   Old AI music generation channel, now kept for comparison and data warehousing alongside the main channel.
 
 ---
 
