@@ -15,7 +15,7 @@
 
 1. **Chess.com — ZLockAtDrawArmy**
    [chess.com/member/ZLockAtDrawArmy](https://chess.com/member/ZLockAtDrawArmy)
-   Daily rapid and blitz games; tracking progress and competing with players from Jombang, East Java.
+   Daily rapid and blitz games, tracking progress and competing with players from Jombang, East Java.
 
 2. **Instagram — izaly78mo**
    [instagram.com/izaly78mo](https://instagram.com/izaly78mo)
