@@ -1,97 +1,100 @@
-🌐 **Faizal Nurul Firdaus Online Presence**
+# Faizal Nurul Firdaus — Online Presence
 
 ---
 
-### 📂 Account Hub
+## 📂 Account Hub
 
-- **GitHub**  
-  [github.com/faizalnf6](https://github.com/faizalnf6)  
-  Contains raw materials and preparation for future coding projects, especially Android development and C++ programming.
-
-- **X.com**  
-  [x.com/izauslanfa78](https://x.com/izauslanfa78)  
-  Forward social media account for testing thoughts and sharing braver content.
+| Platform | Handle | Link | Notes |
+|---|---|---|---|
+| GitHub | faizalnf6 | [github.com/faizalnf6](https://github.com/faizalnf6) | Raw materials and prep for future coding projects, especially Android dev and C++ |
+| X.com | izauslanfa78 | [x.com/izauslanfa78](https://x.com/izauslanfa78) | Forward account for testing thoughts and sharing braver content |
 
 ---
 
-### 🔥 Active Accounts
+## 🔥 Active Accounts
 
-1. **Chess.com – Handle: ZLockAtDrawArmy**  
-   [chess.com/member/ZLockAtDrawArmy](https://chess.com/member/ZLockAtDrawArmy)  
-   Plays daily rapid and blitz games, tracking progress and competing with players from Jombang, East Java.
+1. **Chess.com — ZLockAtDrawArmy**
+   [chess.com/member/ZLockAtDrawArmy](https://chess.com/member/ZLockAtDrawArmy)
+   Daily rapid and blitz games; tracking progress and competing with players from Jombang, East Java.
 
-2. **Instagram – Handle: izaly78mo**  
-   [instagram.com/izaly78mo](https://instagram.com/izaly78mo)  
-   Shares AI art, quotes, faith-based content, and anime-related posts. Public account.
+2. **Instagram — izaly78mo**
+   [instagram.com/izaly78mo](https://instagram.com/izaly78mo)
+   AI art, quotes, faith-based content, anime-related posts. Public account.
 
-3. **YouTube – Handle: faizalnurulfirdaus**  
-   [youtube.com/@faizalnurulfirdaus](https://youtube.com/@faizalnurulfirdaus)  
-   Uploads AI-generated songs, short videos, and imagination/faith content. Targeted for Indonesian viewers, including Jombang.
+3. **YouTube — faizalnurulfirdaus**
+   [youtube.com/@faizalnurulfirdaus](https://youtube.com/@faizalnurulfirdaus)
+   AI-generated songs, short videos, imagination/faith content. Targeted at Indonesian viewers, including Jombang.
 
-4. **JustPaste.it – Handle: ZLockAtDrawArmy**  
-   [da.gd link shortener](https://da.gd/6JlGE)<br>
-   Posts stories about original character Eiris Zahra, personal thoughts, and notes on digital presence.
-
----
-
-### 💤 Inactive Accounts
-
-5. **Chess.com – Handle: KindAeroCreese**  
-   [chess.com/member/KindAeroCreese](https://chess.com/member/KindAeroCreese)  
-   Old account with past games, including a tough loss to "sanglier" (French player).
-
-6. **Chess.com – Handle: FinnStrom3693**  
-   [chess.com/member/FinnStrom3693](https://chess.com/member/FinnStrom3693)  
-   Stopped using after losing to a chess engine, which taught lessons about engine defense.
-
-7. **YouTube – Handle: Finn Strom**  
-   [youtube.com/@finnstrom-t3e](https://youtube.com/@finnstrom-t3e)  
-   Old channel with AI music model generation, now used for comparison and data warehousing alongside the main channel.
+4. **JustPaste.it — ZLockAtDrawArmy**
+   [Link shortener](https://da.gd/6JlGE)
+   Stories about original character Eiris Zahra, personal thoughts, notes on digital presence.
 
 ---
 
-### ♟️ Friend & Rival
+## 💤 Inactive Accounts
 
-8. **AdamNeoJR – Chess rival and friend**  
-   [chess.com/member/AdamNeoJR](https://chess.com/member/AdamNeoJR)  
-   Competes yearly, pushing each other to improve at a similar skill level.
+5. **Chess.com — KindAeroCreese**
+   [chess.com/member/KindAeroCreese](https://chess.com/member/KindAeroCreese)
+   Old account; notable past loss to "sanglier" (French player).
 
----
+6. **Chess.com — FinnStrom3693**
+   [chess.com/member/FinnStrom3693](https://chess.com/member/FinnStrom3693)
+   Stopped use after a loss to a chess engine — lesson in engine defense.
 
-### 👥 Community Contact
-
-9. **@thxmylnd – Anime fan with detective theme**  
-   [instagram.com/thxmylnd](https://instagram.com/thxmylnd)  
-   Shares anime and intellectual content, interacting through comments and posts.
-
----
-
-### 🌐 Internet Provider
-
-10. **Biznet Home – Fiber optic internet provider**  
-    [biznethome.net](https://biznethome.net)  
-    - Speed: 50–300 Mbps  
-    - Price: Rp 175,000 – Rp 700,000/month  
-    - Coverage: Central & East Jakarta (since 2000)  
-    - Call: 1500933  
-
-Supports chess games, YouTube uploads, and AI content creation from Jombang, East Java.
+7. **YouTube — Finn Strom**
+   [youtube.com/@finnstrom-t3e](https://youtube.com/@finnstrom-t3e)
+   Old AI music generation channel; now kept for comparison and data warehousing alongside the main channel.
 
 ---
 
-📊 Quick Summary
+## ♟️ Friend & Rival
 
-| Status    | Platform      | Name                  |
-|-----------|---------------|-----------------------|
-| Active    | Chess.com | ZLockAtDrawArmy |
-| Active    | Instagram | izaly78mo |
-| Active    | YouTube | faizalnurulfirdaus |
-| Active    | X.com | izauslanfa78 |
-| Medium    | JustPaste.it | ZLockAtDrawArmy |
-| Archived  | Chess.com | KindAeroCreese |
-| Archived  | Chess.com | FinnStrom3693 |
-| Archived  | YouTube | Finn Strom |
-| Rival     | Chess.com | AdamNeoJR |
+8. **AdamNeoJR** — Chess rival and friend
+   [chess.com/member/AdamNeoJR](https://chess.com/member/AdamNeoJR)
+   Yearly competition at a similar skill level.
+
+---
+
+## 👥 Community Contact
+
+9. **@thxmylnd** — Anime fan, detective theme
+   [instagram.com/thxmylnd](https://instagram.com/thxmylnd)
+   Shares anime and intellectual content; interacts via comments and posts.
+
+---
+
+## 🌐 Services
+
+- **Smartfren** — Home Internet / Mobile Provider *(replaces Biznet)*
+  Community: [instagram.com/smartfrencommunity](https://www.instagram.com/smartfrencommunity?igsh=Z3k0Nm04M3E1cm4w)
+
+---
+
+## 💰 Financial & Investment Interests
+
+- **AVAX Crowdfunding** — Avalanche-related crowdfunding interest
+- **MNC Advertising** — Advertising involvement/interest tied to MNC Group
+- **Zyrex Investment** — Investment interest in Zyrex
+- **Aladin Bank Philosophy** — Interest in Aladin Bank's (Islamic digital banking) philosophy/model
+
+---
+
+## 📊 Quick Summary
+
+| Status | Platform | Name |
+|---|---|---|
+| Active | Chess.com | ZLockAtDrawArmy |
+| Active | Instagram | izaly78mo |
+| Active | YouTube | faizalnurulfirdaus |
+| Active | X.com | izauslanfa78 |
+| Medium | JustPaste.it | ZLockAtDrawArmy |
+| Archived | Chess.com | KindAeroCreese |
+| Archived | Chess.com | FinnStrom3693 |
+| Archived | YouTube | Finn Strom |
+| Rival | Chess.com | AdamNeoJR |
 | Community | Instagram | thxmylnd |
-| Service   | Biznet | Home Internet Provider |
----
+| Service | Smartfren | Home Internet / Mobile Provider |
+| Interest | AVAX | Crowdfunding |
+| Interest | MNC | Advertising |
+| Interest | Zyrex | Investment |
+| Interest | Aladin Bank | Philosophy |
