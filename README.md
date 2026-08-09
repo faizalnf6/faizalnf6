@@ -8,6 +8,8 @@
 |---|---|---|---|
 | GitHub | faizalnf6 | [github.com/faizalnf6](https://github.com/faizalnf6) | Raw materials and prep for future coding projects, especially Android dev and C++ |
 | X.com | izauslanfa78 | [x.com/izauslanfa78](https://x.com/izauslanfa78) | Forward account for testing thoughts and sharing braver content |
+|Mastodon| izauslanfa78 |
+[@izauslanfa78](https://mastodon.social/@izauslanfa78) | microblog for connecting with open-source programmer with trustworthy profile |
 
 ---
 
