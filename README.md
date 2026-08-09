@@ -1,102 +1,119 @@
-# Faizal Nurul Firdaus — Online Presence
+# Faizal Nurul Firdaus — Digital Presence & Portfolio
+
+[![GitHub](https://img.shields.io/badge/GitHub-faizalnf6-181717?style=flat&logo=github)](https://github.com/faizalnf6)
+[![X](https://img.shields.io/badge/X-izauslanfa78-000000?style=flat&logo=x)](https://x.com/izauslanfa78)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@izauslanfa78-6364FF?style=flat&logo=mastodon)](https://mastodon.social/@izauslanfa78)
+[![YouTube](https://img.shields.io/badge/YouTube-faizalnurulfirdaus-FF0000?style=flat&logo=youtube)](https://youtube.com/@faizalnurulfirdaus)
+[![Chess.com](https://img.shields.io/badge/Chess.com-ZLockAtDrawArmy-81B64F?style=flat&logo=chess)](https://chess.com/member/ZLockAtDrawArmy)
 
 ---
 
-## 📂 Account Hub
+## 👤 About Me
 
-| Platform | Handle | Link | Notes |
+Indonesian tech enthusiast and content creator based in **Jombang, East Java**. Passionate about Android development, C++, AI-generated art, and building a meaningful digital footprint. Faith-driven and constantly experimenting with new ideas across platforms.
+
+---
+
+## 📂 Hub & Social Accounts
+
+| Platform | Handle | Link | Purpose |
 |---|---|---|---|
-| GitHub | faizalnf6 | [github.com/faizalnf6](https://github.com/faizalnf6) | Raw materials and prep for future coding projects, especially Android dev and C++ |
-| X.com | izauslanfa78 | [x.com/izauslanfa78](https://x.com/izauslanfa78) | Forward account for testing thoughts and sharing braver content |
-|Mastodon| izauslanfa78 |
-[@izauslanfa78](https://mastodon.social/@izauslanfa78) | microblog for connecting with open-source programmer with trustworthy profile |
+| **GitHub** | faizalnf6 | [github.com/faizalnf6](https://github.com/faizalnf6) | Android dev, C++, and future coding projects |
+| **X.com** | izauslanfa78 | [x.com/izauslanfa78](https://x.com/izauslanfa78) | Thought experiments and bold content |
+| **Mastodon** | @izauslanfa78 | [mastodon.social/@izauslanfa78](https://mastodon.social/@izauslanfa78) | Open-source community connections |
 
 ---
 
-## 🔥 Active Accounts
+## 🚀 Active Platforms
 
-1. **Chess.com — ZLockAtDrawArmy**
-   [chess.com/member/ZLockAtDrawArmy](https://chess.com/member/ZLockAtDrawArmy)
-   Daily rapid and blitz games, tracking progress and competing with players from Jombang, East Java.
+### ♟️ Chess.com — [ZLockAtDrawArmy](https://chess.com/member/ZLockAtDrawArmy)
+- **Focus**: Daily rapid & blitz games
+- **Community**: Competing with players from Jombang, East Java
+- **Status**: 🟢 Active
 
-2. **Instagram — izaly78mo**
-   [instagram.com/izaly78mo](https://instagram.com/izaly78mo)
-   AI art, quotes, faith-based content, anime-related posts. Public account.
+### 📸 Instagram — [izaly78mo](https://instagram.com/izaly78mo)
+- **Content**: AI art, inspirational quotes, faith-based posts, anime
+- **Status**: 🟢 Active (Public)
 
-3. **YouTube — faizalnurulfirdaus**
-   [youtube.com/@faizalnurulfirdaus](https://youtube.com/@faizalnurulfirdaus)
-   AI-generated songs, short videos, imagination/faith content. Targeted at Indonesian viewers, including Jombang.
+### ▶️ YouTube — [faizalnurulfirdaus](https://youtube.com/@faizalnurulfirdaus)
+- **Content**: AI-generated music, short videos, imagination & faith content
+- **Audience**: Indonesian viewers, especially from Jombang
+- **Status**: 🟢 Active
 
-4. **JustPaste.it — ZLockAtDrawArmy**
-   [Link shortener](https://da.gd/6JlGE)
-   Stories about original character Eiris Zahra, personal thoughts, notes on digital presence.
-
----
-
-## 💤 Inactive Accounts
-
-5. **Chess.com — KindAeroCreese**
-   [chess.com/member/KindAeroCreese](https://chess.com/member/KindAeroCreese)
-   Old account; notable past loss to "sanglier" (French player).
-
-6. **Chess.com — FinnStrom3693**
-   [chess.com/member/FinnStrom3693](https://chess.com/member/FinnStrom3693)
-   Stopped use after a loss to a chess engine — lesson in engine defense.
-
-7. **YouTube — Finn Strom**
-   [youtube.com/@finnstrom-t3e](https://youtube.com/@finnstrom-t3e)
-   Old AI music generation channel, now kept for comparison and data warehousing alongside the main channel.
+### 📝 JustPaste.it — [ZLockAtDrawArmy](https://da.gd/6JlGE)
+- **Content**: Original character Eiris Zahra stories, personal notes, digital reflections
+- **Status**: 🟡 Medium activity
 
 ---
 
-## ♟️ Friend & Rival
+## 💤 Archived Accounts
 
-8. **AdamNeoJR** — Chess rival and friend
-   [chess.com/member/AdamNeoJR](https://chess.com/member/AdamNeoJR)
-   Yearly competition at a similar skill level.
-
----
-
-## 👥 Community Contact
-
-9. **@thxmylnd** — Anime fan, detective theme
-   [instagram.com/thxmylnd](https://instagram.com/thxmylnd)
-   Shares anime and intellectual content; interacts via comments and posts.
-
----
-
-## 🌐 Services
-
-- **Smartfren** — Home Internet / Mobile Provider *(replaces Biznet)*
-  Community: [instagram.com/smartfrencommunity](https://www.instagram.com/smartfrencommunity?igsh=Z3k0Nm04M3E1cm4w)
-
----
-
-## 💰 Financial & Investment Interests
-
-- **AVAX Crowdfunding** — Avalanche-related crowdfunding interest
-- **MNC Advertising** — Advertising involvement/interest tied to MNC Group
-- **Zyrex Investment** — Investment interest in Zyrex
-- **Aladin Bank Philosophy** — Interest in Aladin Bank's (Islamic digital banking) philosophy/model
-
----
-
-## 📊 Quick Summary
-
-| Status | Platform | Name |
+| Platform | Handle | Notes |
 |---|---|---|
-| Active | Chess.com | ZLockAtDrawArmy |
-| Active | Instagram | izaly78mo |
-| Active | YouTube | faizalnurulfirdaus |
-| Active | X.com | izauslanfa78 |
-| Medium | JustPaste.it | ZLockAtDrawArmy |
-| Archived | Chess.com | KindAeroCreese |
-| Archived | Chess.com | FinnStrom3693 |
-| Archived | YouTube | Finn Strom |
-| Rival | Chess.com | AdamNeoJR |
-| Community | Instagram | thxmylnd |
-| Service | Smartfren | Home Internet / Mobile Provider |
-| Interest | AVAX | Crowdfunding |
-| Interest | MNC | Advertising |
-| Interest | Zyrex | Investment |
-| Interest | Aladin Bank | Philosophy |
+| Chess.com | [KindAeroCreese](https://chess.com/member/KindAeroCreese) | Old account; notable loss to French player "sanglier" |
+| Chess.com | [FinnStrom3693](https://chess.com/member/FinnStrom3693) | Retired after learning engine defense the hard way |
+| YouTube | [Finn Strom](https://youtube.com/@finnstrom-t3e) | Early AI music experiments; kept for data comparison |
+
+---
+
+## 🤝 Connections
+
+### Rival & Friend
+- **AdamNeoJR** — [Chess.com](https://chess.com/member/AdamNeoJR)
+  - Yearly competitive matches at similar skill level
+
+### Community
+- **@thxmylnd** — [Instagram](https://instagram.com/thxmylnd)
+  - Anime and intellectual content; active commenter
+
+---
+
+## 📡 Services
+
+- **Smartfren** — Home Internet & Mobile Provider *(replacing Biznet)*
+  - [Instagram Community](https://www.instagram.com/smartfrencommunity?igsh=Z3k0Nm04M3E1cm4w)
+
+---
+
+## 💰 Investment & Financial Interests
+
+| Sector | Focus |
+|---|---|
+| **AVAX** | Crowdfunding on Avalanche blockchain |
+| **MNC Group** | Advertising and media involvement |
+| **Zyrex** | Technology investment interest |
+| **Aladin Bank** | Islamic digital banking philosophy and model |
+
+---
+
+## 📊 Platform Status Overview
+
+| Status | Platform | Handle/Name |
+|---|---|---|
+| 🟢 Active | Chess.com | ZLockAtDrawArmy |
+| 🟢 Active | Instagram | izaly78mo |
+| 🟢 Active | YouTube | faizalnurulfirdaus |
+| 🟢 Active | X.com | izauslanfa78 |
+| 🟡 Medium | JustPaste.it | ZLockAtDrawArmy |
+| ⚪ Archived | Chess.com | KindAeroCreese |
+| ⚪ Archived | Chess.com | FinnStrom3693 |
+| ⚪ Archived | YouTube | Finn Strom |
+| 🔵 Rival | Chess.com | AdamNeoJR |
+| 🟣 Community | Instagram | thxmylnd |
+| 🟠 Service | Smartfren | Home Internet / Mobile |
+| 💰 Interest | AVAX | Crowdfunding |
+| 💰 Interest | MNC | Advertising |
+| 💰 Interest | Zyrex | Investment |
+| 💰 Interest | Aladin Bank | Islamic Banking Philosophy |
+
+---
+
+## 📬 Connect With Me
+
+- **Primary GitHub**: [faizalnf6](https://github.com/faizalnf6)
+- **Tech & Bold Takes**: [X.com](https://x.com/izauslanfa78) | [Mastodon](https://mastodon.social/@izauslanfa78)
+- **Creative Work**: [YouTube](https://youtube.com/@faizalnurulfirdaus) | [Instagram](https://instagram.com/izaly78mo)
+
+---
+
+*Built with purpose. Growing every day.* 🇮🇩
