@@ -52,7 +52,7 @@ Indonesian tech enthusiast and content creator based in **Jombang, East Java, In
 |---|---|---|
 | Chess.com | [KindAeroCreese](https://chess.com/member/KindAeroCreese) | Old account; notable loss to French player "sanglier" |
 | Chess.com | [FinnStrom3693](https://chess.com/member/FinnStrom3693) | Retired after learning engine defense the hard way |
-| YouTube | [Finn Strom](https://youtube.com/@finnstrom-t3e) | Early AI music experiments; kept for data comparison |
+| YouTube | [Finn Strom](https://youtube.com/@finnstrom-t3e) | Early AI music experiments, kept for data comparison |
 
 ---
 
