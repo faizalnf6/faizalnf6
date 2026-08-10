@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-Indonesian tech enthusiast and content creator based in **Jombang, East Java**. Passionate about Android development, C++, AI-generated art, and building a meaningful digital footprint. Faith-driven and constantly experimenting with new ideas across platforms.
+Indonesian tech enthusiast and content creator based in **Jombang, East Java, Indonesia**. Passionate about Android development, C++, AI-generated art, and building a meaningful digital footprint. Faith-driven and constantly experimenting with new ideas across platforms.
 
 ---
 
