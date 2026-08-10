@@ -70,7 +70,7 @@ Indonesian tech enthusiast and content creator based in **Jombang, East Java**. 
 
 ## 📡 Services
 
-- **Smartfren** — Home Internet & Mobile Provider *(replacing Biznet)*
+- **Smartfren** — Home Internet & Mobile Provider
   - [Instagram Community](https://www.instagram.com/smartfrencommunity?igsh=Z3k0Nm04M3E1cm4w)
 
 ---
@@ -91,11 +91,6 @@ Indonesian tech enthusiast and content creator based in **Jombang, East Java**. 
 | 🔵 Rival | Chess.com | AdamNeoJR |
 | 🟣 Community | Instagram | thxmylnd |
 | 🟠 Service | Smartfren | Home Internet / Mobile |
-| 💰 Interest | AVAX | Crowdfunding |
-| 💰 Interest | MNC | Advertising |
-| 💰 Interest | Zyrex | Investment |
-| 💰 Interest | Aladin Bank | Islamic Banking Philosophy |
-
 ---
 
 ## 📬 Connect With Me
