@@ -64,7 +64,7 @@ Indonesian tech enthusiast and content creator based in **Jombang, East Java, In
 
 ### Community
 - **@thxmylnd** — [Instagram](https://instagram.com/thxmylnd)
-  - Anime and intellectual content; active commenter
+  - Anime and intellectual content, active commenter
 
 ---
 
