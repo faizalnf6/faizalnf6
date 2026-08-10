@@ -75,17 +75,6 @@ Indonesian tech enthusiast and content creator based in **Jombang, East Java**. 
 
 ---
 
-## 💰 Investment & Financial Interests
-
-| Sector | Focus |
-|---|---|
-| **AVAX** | Crowdfunding on Avalanche blockchain |
-| **MNC Group** | Advertising and media involvement |
-| **Zyrex** | Technology investment interest |
-| **Aladin Bank** | Islamic digital banking philosophy and model |
-
----
-
 ## 📊 Platform Status Overview
 
 | Status | Platform | Handle/Name |
@@ -94,6 +83,7 @@ Indonesian tech enthusiast and content creator based in **Jombang, East Java**. 
 | 🟢 Active | Instagram | izaly78mo |
 | 🟢 Active | YouTube | faizalnurulfirdaus |
 | 🟢 Active | X.com | izauslanfa78 |
+| 🟢 Active | mastodon | izauslanfa78 |
 | 🟡 Medium | JustPaste.it | ZLockAtDrawArmy |
 | ⚪ Archived | Chess.com | KindAeroCreese |
 | ⚪ Archived | Chess.com | FinnStrom3693 |
