@@ -1,4 +1,4 @@
-# Faizal Nurul Firdaus — Digital Presence & Portfolio
+# Faizal Nurul Firdaus — Digital Presence
 
 [![GitHub](https://img.shields.io/badge/GitHub-faizalnf6-181717?style=flat&logo=github)](https://github.com/faizalnf6)
 [![X](https://img.shields.io/badge/X-izauslanfa78-000000?style=flat&logo=x)](https://x.com/izauslanfa78)
